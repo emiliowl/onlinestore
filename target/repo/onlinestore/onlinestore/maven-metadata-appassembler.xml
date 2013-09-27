@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>onlinestore</groupId>
+  <artifactId>onlinestore</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130927005524</lastUpdated>
+  </versioning>
+</metadata>
